@@ -1,0 +1,10 @@
+.margin-auto{
+    display: flex;
+    height: 100px;
+    width: 200px;
+    background-color: #ffff99;
+    color: #333;
+}
+.margin-auto-texto{
+    margin: auto;
+}
